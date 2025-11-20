@@ -1,0 +1,57 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.custom-card {
+    background-color: #b0a7c5;
+    transition: 0.3s;
+
+}
+
+
+.custom-card .quote {
+    color: black;
+    font-size: 18px;
+    margin: 20px;
+    transition: 1.2s;
+}
+
+
+.custom-card .challenge {
+    color: #b0a7c5;
+    margin: 20px;
+    font-size: 18px;
+    transition: 1.2s;
+
+}
+
+
+.custom-card:hover .quote {
+    color: #b0a7c5;
+}
+
+.custom-card:hover .challenge {
+    color: black;
+}
+
+
+
+
+.motivation-image {
+    object-fit: cover;
+}
+
+
+.logo {
+    width: auto;
+    height: 110px;
+}
+
+
+
+.motivation-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 15px;
+    text-align: center;
+}
