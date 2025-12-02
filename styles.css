@@ -6,11 +6,11 @@ html {
 
 .navigation {
     background-color: #72b599;
-    padding: 20px;
+    padding: 15px;
 
     align-items: center;
 
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 500;
 
     /* border: red 2px solid; */
@@ -56,7 +56,7 @@ html {
 }
 
 .home-logo {
-    width: 30%;
+    width: 55%;
     height: auto;
 }
 
@@ -208,9 +208,11 @@ html {
 }
 
 .custom-card:hover .challenge {
+color: rgb(90, 0, 0);
     font-weight: 500;
     display: block;
 }
+
 
 
 
