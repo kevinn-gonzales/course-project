@@ -6,7 +6,7 @@ html {
 
 .navigation {
     background-color: #72b599;
-    padding: 15px;
+    padding: 10px;
 
     align-items: center;
 
@@ -181,7 +181,6 @@ html {
     background-color: white;
 
     margin: 30px;
-    transition: 0.3s;
 
 }
 
@@ -190,7 +189,6 @@ html {
     color: black;
     font-size: 18px;
     margin: 20px;
-    transition: 1.2s;
 }
 
 
@@ -198,7 +196,6 @@ html {
     display: none;
     margin: 20px;
     font-size: 18px;
-    transition: 1.2s;
 
 }
 
@@ -208,7 +205,9 @@ html {
 }
 
 .custom-card:hover .challenge {
-color: rgb(90, 0, 0);
+    background-color: ghostwhite;
+    padding: 20px;
+    border-radius: 10px;
     font-weight: 500;
     display: block;
 }
@@ -224,7 +223,7 @@ color: rgb(90, 0, 0);
 
 .logo {
     width: auto;
-    height: 48px;
+    height: 49px;
 }
 
 
