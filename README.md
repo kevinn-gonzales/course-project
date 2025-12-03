@@ -1,7 +1,7 @@
 # Form & Focus
 ## An Information and Motivational Fitness Website
 
-[Link to Figma Wireframe](https://www.figma.com/design/Z3wNeeq1qib73UgQCeBVuJ/Course-Project-Wireframe?node-id=0-1&p=f&t=wZn3KutctyWT6r4m-0)
+[Link to Figma Wireframe](https://www.figma.com/design/Z3wNeeq1qib73UgQCeBVuJ/Course-Project-Wireframe?node-id=0-1&t=Gu1ERYjVvU1hVtPw-1)
 
 [Link to GitHub Page](https://kevinn-gonzales.github.io/course-project/)
 
