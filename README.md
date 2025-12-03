@@ -45,6 +45,11 @@ Additionally, we want to dedicate a page to provide motivational quotes and also
 ![Second Design Inspo](/assets/inspo2.png)
 
 
+### Lighthouse Results
+
+![Lighthouse Results](/assets/lighthouse-results.png)
+
+
 ### References
 https://dribbble.com/shots/13945180-30-Exercise-Animations-looped-Bundle-Man
 
