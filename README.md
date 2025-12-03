@@ -11,6 +11,9 @@ Whether you are new to fitness or have experience working out, this website will
 We want to create a website to highlight the importance of physical activity as well as providing exercises and workouts individuals can perform regardless of experience. 
 Additionally, we want to dedicate a page to provide motivational quotes and also suggest mini challenges that will help promote physical fitness and health.
 
+- We also want to highlight the benefits of body weight workouts and weightlifiting and why it may be more beneficial to do one over the other
+- We want our website to be very easy to scan through and easy on the eyes.
+
 ### Target Audience
 
 - Individuals who want to begin their fitness journey but don't know where to start.
@@ -34,6 +37,7 @@ Additionally, we want to dedicate a page to provide motivational quotes and also
 **Motivation (Page 3)**
 - Motivational quotes/challenges to inspire the user to progress their fitness journey
 - Different categories like Disciplline, Mindset, Consistency and Recovery
+- When user hovers over quote, a mini challenge will appear to engage the user and make the site more interactive
 
 
 
