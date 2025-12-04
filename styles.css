@@ -38,7 +38,7 @@ html {
 .home-header {
     background-color: #c4c4e0;
 
-    width: 70%;
+    width: 80%;
     height: auto;
 
     padding: 20px;
@@ -62,7 +62,7 @@ html {
 
 
 .home-image {
-    width: 70%;
+    width: 80%;
     height: auto;
 
     margin-top: 16px;
@@ -77,7 +77,7 @@ html {
 
     text-align: center;
 
-    width: 70%;
+    width: 80%;
     height: auto;
 
     border-bottom-left-radius: 20px;
